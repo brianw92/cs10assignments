@@ -1,0 +1,12 @@
+[user]
+    name = brianw92
+    email = bwong012@ucr.edu
+[core]
+    editor = nano
+    whitespace = off
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = simple

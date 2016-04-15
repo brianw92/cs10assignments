@@ -1,0 +1,4 @@
+export UCRCS_FNAME="Brian"
+export UCRCS_LNAME="Wong"
+export UCRCS_COURSE="CS010"
+export UCRCS_UCRSUB_EMAIL="bwong012@ucr.edu"
